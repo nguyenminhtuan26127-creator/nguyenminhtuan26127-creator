@@ -1,37 +1,20 @@
-````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=NGUYEN%20MINH%20TUAN&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20•%20Software%20Engineer&descAlignY=55&descSize=18" />
+# Nguyen Minh Tuan
 
-# Hi there 👋
+### Backend Developer • Software Engineer • AI Enthusiast
 
-### Backend Developer • AI Enthusiast • Database Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Backend+Developer;Database+Engineer;Learning+AI+and+Cloud" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Backend+Systems;Learning+AI+%26+Cloud;Always+Improving" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nguyenminhtuan26127-creator&style=flat-square&color=blue" />
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-```yaml
-Name: Nguyen Minh Tuan
-Role: Software Engineering Student
-Focus:
-  - Backend Development
-  - Databases
-  - AI Applications
-  - Cloud & DevOps
-Currently Learning:
-  - Docker
-  - System Design
-  - FastAPI
-````
-
----
-
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -45,15 +28,25 @@ Currently Learning:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nguyenminhtuan26127-creator&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nguyenminhtuan26127-creator&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenminhtuan26127-creator&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenminhtuan26127-creator&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Activity Graph
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nguyenminhtuan26127-creator&theme=algolia&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -63,7 +56,7 @@ Currently Learning:
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -71,12 +64,12 @@ Currently Learning:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your_email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -85,9 +78,6 @@ Currently Learning:
 
 <div align="center">
 
-> “Code clean. Build smart. Keep learning.”
+⭐ Always learning and building new things ⭐
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" />
-```
